@@ -1,0 +1,3 @@
+com\upiiz\memorysecurity\DemoSecurityApplication.class
+com\upiiz\memorysecurity\config\SecurityConfig.class
+com\upiiz\memorysecurity\controllers\FacturasController.class
